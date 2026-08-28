@@ -3,6 +3,14 @@
     <channel>
         <title>FaderBay</title>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Fri, 28 Aug 2026 11:21:30 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay-1.5.1.dmg" length="3560279" type="application/octet-stream" sparkle:edSignature="UBzZZP8ITBiRhwoEcIMkJpNdmu/qXZSQcYqZWevSVQwEIgVfr3bg4r6youCaaNa8Wa9y0jlduul24Mw2ucUrAw=="/>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Thu, 27 Aug 2026 23:55:42 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
