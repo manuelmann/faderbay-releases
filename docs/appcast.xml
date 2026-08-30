@@ -3,6 +3,20 @@
     <channel>
         <title>FaderBay</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Sun, 30 Aug 2026 21:58:28 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay-1.7.1.dmg" length="4081135" type="application/octet-stream" sparkle:edSignature="3Mk9Fg+cA/8j9g8+Qgk/sj0EckXnPsLPUFyRhG2DXAtWZWEP06KQXhqfEC41tnmWxqTqmmYNCxrzTIqzUXjnDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay10-9.delta" sparkle:deltaFrom="9" length="328698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hVVoOlE6FYvPYrlNY/W1CbU1Xd/CzU22W/p13VRmjrJCTv5NqKJkYoocFQF/qoRKuKJZ2U25dglgNLxwha/OAQ=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay10-7.delta" sparkle:deltaFrom="7" length="1000414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r4lzybND8r+aC5EqoKMr9kXZWomhhT0L/jkvwJttWVPyIcSEmEnGJlA2nzwMPNE28j1gdNtBEyj323Ep3RDUBg=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay10-6.delta" sparkle:deltaFrom="6" length="1157842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sINk4lavLy3GYknB3VjTjOEa5Y4LWQrBwngROLp58sWC8BRPQLrsUgol+YvwhoY92U1bQM/CEXcgjLnSirCgCQ=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay10-5.delta" sparkle:deltaFrom="5" length="1309414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sg2JGBI/POAEgmTJjUHvyReXrdcSStHsBTua2RzZn3cSPdOOZzEUs+tSkq42XukUEYyjl/p/9FvjwRHe3v5CCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Sun, 30 Aug 2026 14:09:25 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
