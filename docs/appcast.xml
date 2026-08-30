@@ -3,6 +3,19 @@
     <channel>
         <title>FaderBay</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Sun, 30 Aug 2026 14:09:25 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay-1.7.0.dmg" length="4075589" type="application/octet-stream" sparkle:edSignature="AnjJE4cM4vEm8C37Sv4GpMbHLiqs6A6dS7xuIO8w/FcWyle+ekHvGdPXsN1ndu+sYUCAwdGY6r9A0OswBYdACw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay9-7.delta" sparkle:deltaFrom="7" length="998046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uM+bTc97HdZnC7FDsO17b8C6eqAX91Z3b6fEe3gtRiaCtNFa/1m7iAhLb/fTNdZj6I+bEGth1unqhLWCswoZCg=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay9-6.delta" sparkle:deltaFrom="6" length="1150358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NFe7Xq+d1+xaYdweJAnHv+COUqAAsUdfTy+tJm3BN9dZlOPUNz/iHjF6mcSP1AXYRdetJowg4fwO9pepJ0U6Cg=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay9-5.delta" sparkle:deltaFrom="5" length="1299358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i2FMzRdJFTF6AQbPM21bo6QhWuFNz5/7LfMje8AHyKx4YsMgAQVTFXvMOCrH7TJKM3Ppq03/vS8SAebwIJlUBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Fri, 28 Aug 2026 11:21:30 +0200</pubDate>
             <sparkle:version>7</sparkle:version>
