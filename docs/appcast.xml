@@ -3,6 +3,19 @@
     <channel>
         <title>FaderBay</title>
         <item>
+            <title>1.8.2</title>
+            <pubDate>Mon, 31 Aug 2026 23:27:22 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay-1.8.2.dmg" length="4798086" type="application/octet-stream" sparkle:edSignature="b2j5QumJz+ln+77vQwBLYgCoXfzIyo5y7Cml0QV4llukZ1WGAltxpI2mB9zaL8pJhDB5kLHZLV5YaYq5IIbuCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay13-12.delta" sparkle:deltaFrom="12" length="261354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jcNs4AtzNqEQqGJnRJ808Vdhwh9E4W+7rLxXavYnQyIQc9TxT2xoYoP1daSohVznIgMr6udaK6T8200WpM6fDQ=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay13-11.delta" sparkle:deltaFrom="11" length="424010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5xll6rcWpgBN1pjm/3tvc59TYsXWk+9IC/07VykTd5mmHMy9950Lgy9OjIo6onEy5Z+NV5pqNQePF8y5NsZ5CQ=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay13-10.delta" sparkle:deltaFrom="10" length="1230474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fIShDomAbNIx3qdtmHJgxJ6HTX7sGLKVh//i3VnCmmFou/EiuAdu2ZAQecG7LrZQKeCWVARsdd9TloYz2pu8AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.1</title>
             <pubDate>Mon, 31 Aug 2026 21:17:38 +0200</pubDate>
             <sparkle:version>12</sparkle:version>
