@@ -3,6 +3,19 @@
     <channel>
         <title>FaderBay</title>
         <item>
+            <title>1.8.4</title>
+            <pubDate>Wed, 02 Sep 2026 22:57:35 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.8.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay-1.8.4.dmg" length="4906270" type="application/octet-stream" sparkle:edSignature="vBWNmWkihSYETXqCSU1b3he0EbMmBWHpnfJ4IQ/sxOa45Apu135QsN6kMWTCstAinunrip7gGfyXlJQ17rzQCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay15-14.delta" sparkle:deltaFrom="14" length="737166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M1g6prVzTn/bNWD+R0z/yC9j4s+CZze/eJBKrRlQkPzm2EKwaGFAGme40z8SX6yPVf/Z7cxiuEDMAkuzrtixCw=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay15-13.delta" sparkle:deltaFrom="13" length="853346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AA5LIzPqe0Y4gDRqyT6jGIGp5a+4KXuYcQgxSrDB7AtV1hdfj7tcx8eldQdPevQAr0OxP14kNrAw2A4N5lT3BQ=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay15-12.delta" sparkle:deltaFrom="12" length="862270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2RD7GCSdfOBhRzhtkFaj/+qz9c/Xff+zPCn2BhEi+qeo+90yo4sSJTywvsMNx0A2orClmG5Te17gPWKCb5XaDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.3</title>
             <pubDate>Tue, 01 Sep 2026 16:47:38 +0200</pubDate>
             <sparkle:version>14</sparkle:version>
