@@ -3,6 +3,19 @@
     <channel>
         <title>FaderBay</title>
         <item>
+            <title>1.10.0</title>
+            <pubDate>Thu, 17 Sep 2026 13:07:00 +0200</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay-1.10.0.dmg" length="3512549" type="application/octet-stream" sparkle:edSignature="0euDo1GTmoPWPLRAp0B3an4+ioTFiuVJHWquOYxwkx6m7xacKMhI94bNDw4c1ei1A0fLVZR7uXfsvtAFwufpDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay20-19.delta" sparkle:deltaFrom="19" length="1176482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YMsKgY/Y59GZg6ITLT5xpRGfckuA4OAm4uKArKaRdPSX/yVBz5P9us9dGUyAVQCIukYC6bKaFzwbnDkGaR0/Bg=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay20-18.delta" sparkle:deltaFrom="18" length="1215254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T4qAruCEQ2W8jksFVKzVQHS0AIJSivlx3A/logq0yLtWTYtT/wnT0bzP+u88lNfVNrVKSaDRWSatUibPGNIHCQ=="/>
+                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay20-17.delta" sparkle:deltaFrom="17" length="1223546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RRs/bjfbsWZitzce+AMjTUy0OQ3xDchpupIzGGUUKUnUIPrjJuMuP+1YBs5IYsLhKy8/VC+jY1bgNNeMxwxOBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9.1</title>
             <pubDate>Wed, 09 Sep 2026 23:10:08 +0200</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -13,8 +26,6 @@
                 <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay19-18.delta" sparkle:deltaFrom="18" length="743354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Uumi2ZOzzGGiLC94+ZrUrS09hFHdduyJ/rqK5L8LwHObuEOq2Tc+IwK3OTAlEM47+Q5z/7eHzBS3RWq9+uInAA=="/>
                 <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay19-17.delta" sparkle:deltaFrom="17" length="768990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yRXgViKBwAvmcp9bPa06HCScD8LCTNMQeiZ2QT4mfHgrqyr5xHjMvKySgXDS95Yd7yklyp5WmzFMsKq1+zG1Ag=="/>
                 <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay19-16.delta" sparkle:deltaFrom="16" length="1105302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="glH1xgYVQRvVXUNgMBJ9cWLktkGvo6Yq7ZDNz9r1No+fq8QVRx4qM7Ro6Edm2D3migLAfW4/s76GcHFpoq25CA=="/>
-                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay19-15.delta" sparkle:deltaFrom="15" length="1144370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bfBFYGLOUy5qMAcfNrYbFj/f82KjN4ybyGNjO6rMT3Nr6YipAd9g0WL5jFj2VrSBQ3WBMVYHp3jPJobF5+41Bg=="/>
-                <enclosure url="https://manuelmann.github.io/faderbay-releases/FaderBay19-14.delta" sparkle:deltaFrom="14" length="1265654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PlBJz1zOJX28D6hlocfmWZ+HZ1YsKpuJHaIyFn1yC2rlg3L9lYgC/GjnBf+YNPIAKQp1vumMga6Pzb8kIkL2DQ=="/>
             </sparkle:deltas>
         </item>
         <item>
